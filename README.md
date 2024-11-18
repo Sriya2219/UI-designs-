@@ -1,6 +1,7 @@
 # UI-designs-
-Figma-based UI design for the Cafe Mobile Application Prototype : https://www.figma.com/proto/RN9O9tOGE8aTsrkeqYhA58/coffee-mobile-app?node-id=0-1&t=QmVWt01RJ06UH227-1
-**UI Design for Cafe Mobile Application Using Figma with Animations**
+**UI Design for Cafe Mobile Application Using Figma with Animations** : https://www.figma.com/proto/RN9O9tOGE8aTsrkeqYhA58/coffee-mobile-app?node-id=0-1&t=QmVWt01RJ06UH227-1
+
+
 
 The **Cafe Mobile Application** UI design is crafted to deliver a seamless, engaging, and visually appealing user experience, combining intuitive navigation with modern aesthetics. Using Figma’s powerful design and prototyping tools, this design showcases dynamic interactions and smooth transitions, bringing the café experience to life on mobile devices.
 
